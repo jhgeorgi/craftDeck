@@ -16,7 +16,7 @@ knit        : slidify::knit2slides
 This shiny app reports on state and national employment data for craft artists from 2004 through 2014. Using it you can get an idea of:
 
 * What the market looks like
-     + The Bureau of Labor Statistics (BLS) tracks craft artist (excluding jewelry makers) as a separate occupation code. These are paid employees. 
+     + The Bureau of Labor Statistics (BLS) tracks craft artists (excluding jewelry makers) as a separate occupation code. These are paid employees. 
      + The BLS estimates that self-employed craft artists account for 57% of crafters, with the BLS figures representing 43% of the market. 
      + With the growth of internet sites like Etsy, the market for craft sales has grown considerably. However, these artists usually do not earn enough for this to be their only source of income.
 
@@ -48,7 +48,7 @@ This is a sample of the national hourly wage data available through the app.
 
 ### Notes
 
-Estimates of self-employed craft artists: These estimates use the BLS self-employed percentage. However BLS employment figures on which the estimate is based, reflect only artists employed by a third party. States with an active independent craft community but no reported third party employment, do not show up in the state data. 
+Estimates of self-employed craft artists: These estimates use the BLS self-employed percentage. However BLS employment figures on which the estimate is based reflect only artists employed by a third party. States with an active independent craft community but no reported third party employment do not show up in the state data. 
 
 Predictions: Not all states have data for every year and every variable. This causes the predictions to "drop out" when there is not enough information to predict for the number of years requested.
 
